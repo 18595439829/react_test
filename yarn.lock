@@ -7817,7 +7817,7 @@ react-app-polyfill@^1.0.1:
 
 react-dev-utils@^9.0.1:
   version "9.0.1"
-  resolved "https://registry.npm.taobao.org/react-dev-utils/download/react-dev-utils-9.0.1.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Freact-dev-utils%2Fdownload%2Freact-dev-utils-9.0.1.tgz#5c03d85a0b2537d0c46af7165c24a7dfb274bef2"
+  resolved "https://registry.npm.taobao.org/react-dev-utils/download/react-dev-utils-9.0.1.tgz#5c03d85a0b2537d0c46af7165c24a7dfb274bef2"
   integrity sha1-XAPYWgslN9DEavcWXCSn37J0vvI=
   dependencies:
     "@babel/code-frame" "7.0.0"
@@ -7848,7 +7848,7 @@ react-dev-utils@^9.0.1:
 
 react-dom@16.8.6:
   version "16.8.6"
-  resolved "https://registry.npm.taobao.org/react-dom/download/react-dom-16.8.6.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Freact-dom%2Fdownload%2Freact-dom-16.8.6.tgz#71d6303f631e8b0097f56165ef608f051ff6e10f"
+  resolved "https://registry.npm.taobao.org/react-dom/download/react-dom-16.8.6.tgz#71d6303f631e8b0097f56165ef608f051ff6e10f"
   integrity sha1-cdYwP2MeiwCX9WFl72CPBR/24Q8=
   dependencies:
     loose-envify "^1.1.0"
@@ -7928,7 +7928,7 @@ react-scripts@3.0.1:
 
 react@16.8.6:
   version "16.8.6"
-  resolved "https://registry.npm.taobao.org/react/download/react-16.8.6.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Freact%2Fdownload%2Freact-16.8.6.tgz#ad6c3a9614fd3a4e9ef51117f54d888da01f2bbe"
+  resolved "https://registry.npm.taobao.org/react/download/react-16.8.6.tgz#ad6c3a9614fd3a4e9ef51117f54d888da01f2bbe"
   integrity sha1-rWw6lhT9Ok6e9REX9U2IjaAfK74=
   dependencies:
     loose-envify "^1.1.0"
